@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android5</string>
+    <string name="cpp">C++</string>
+    <string name="js">JavaScript</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+</resources>
