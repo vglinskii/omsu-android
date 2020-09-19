@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidStart</string>
+    <string name="crow_counter">Насчитали %1$d ворон</string>
+</resources>
