@@ -1,2 +1,3 @@
+include ':app4'
 include ':app'
 rootProject.name = "AndroidStart"
