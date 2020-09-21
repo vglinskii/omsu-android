@@ -1,3 +1,4 @@
+include ':day7_orientation'
 include ':app6'
 include ':app5'
 include ':app4'
