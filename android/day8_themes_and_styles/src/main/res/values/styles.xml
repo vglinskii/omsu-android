@@ -1,0 +1,49 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="MyTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:windowBackground">@color/colorPrimaryLight</item>
+    </style>
+
+    <style name="MyTheme.Dialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@color/colorPrimaryLightRed</item>
+        <item name="android:textColorPrimary">@color/colorAccent</item>
+    </style>
+
+    <style name="standard_text">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Widget.AppCompat.Button.Block">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="Widget.AppCompat.Button.Block.PrimaryDark">
+        <item name="android:background">@color/colorPrimaryDark</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="MyDialogAlertTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:windowTitleStyle">@style/MyDialogThemeTitle</item>
+    </style>
+
+    <style name="MyDialogThemeTitle" >
+        <item name="android:textColor">@color/greenPrimaryDark</item>
+    </style>
+
+</resources>
