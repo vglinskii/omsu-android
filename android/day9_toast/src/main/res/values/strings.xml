@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">day9_toast</string>
+    <string name="toast_msg">What a beautiful toast!</string>
+    <string name="show_toast">Show toast!</string>
+    <string name="toast_showed">Showing toast</string>
+    <string name="toast_hidden">Toast hidden</string>
+</resources>

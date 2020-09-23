@@ -1,3 +1,4 @@
+include ':day9_toast'
 include ':day8_themes_and_styles'
 include ':day7_orientation'
 include ':app6'
