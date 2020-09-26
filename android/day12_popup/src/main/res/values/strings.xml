@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Popup</string>
+    <string name="show_menu">Show menu</string>
+    <string name="popup_dismiss">Popup dismissed</string>
+    <string name="item_choose">Choose item %1$s</string>
+    <string name="volume">Volume</string>
+    <string name="language">Language</string>
+    <string name="profile">Profile</string>
+    <string name="russian">Russian</string>
+    <string name="english">English</string>
+</resources>
