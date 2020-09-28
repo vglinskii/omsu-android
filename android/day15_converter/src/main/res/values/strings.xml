@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="radiobutton_dollars">В долларах</string>
+    <string name="radiobutton_rubles">В рублях</string>
+    <string name="buttonConvert_text">Конвертировать</string>
+    <string name="enter_value">Введите количество денег</string>
+</resources>

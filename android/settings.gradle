@@ -1,3 +1,5 @@
+include ':day16_sound'
+include ':day15_converter'
 include ':day12_popup'
 include ':day11_menu'
 include ':day10_basic_activity'
