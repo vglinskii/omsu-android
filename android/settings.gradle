@@ -1,3 +1,4 @@
+include ':day17_graphics'
 include ':day16_sound'
 include ':day15_converter'
 include ':day12_popup'
