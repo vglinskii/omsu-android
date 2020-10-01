@@ -1,3 +1,5 @@
+include ':day21_localization'
+include ':day19_browser'
 include ':day18_animation'
 include ':day17_graphics'
 include ':day16_sound'
