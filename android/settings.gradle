@@ -1,3 +1,6 @@
+include ':day23_handbook'
+include ':day22_lifecycle'
+include ':day20_keyboard'
 include ':day21_localization'
 include ':day19_browser'
 include ':day18_animation'

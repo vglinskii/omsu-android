@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Keyboard</string>
+    <string name="features">Features:</string>
+    <string name="input_type_check">Input Type Check</string>
+    <string name="input_type_number">Input type: number</string>
+    <string name="input_type_text">Input type: text</string>
+    <string name="volume_tracker_n_press_volume_button">Volume Tracker \n (press volume button)</string>
+    <string name="open_keyboard_settings">Open keyboard settings</string>
+    <string name="back_button_pressing">Back button pressing</string>
+    <string name="volume_buttons_pressing">Volume buttons pressing</string>
+</resources>
