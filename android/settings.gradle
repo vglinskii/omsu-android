@@ -1,3 +1,4 @@
+include ':day24_settings'
 include ':day23_handbook'
 include ':day22_lifecycle'
 include ':day20_keyboard'
