@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StreetView</string>
+    <string name="open_google_maps">Open google maps</string>
+    <string name="open_street_view">Open street view</string>
+</resources>

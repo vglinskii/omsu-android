@@ -1,3 +1,4 @@
+include ':day28_streetview'
 include ':day27_notebook'
 include ':day24_settings'
 include ':day23_handbook'
