@@ -1,3 +1,4 @@
+include ':day30_broadcast'
 include ':day29_google_maps_activity'
 include ':day28_streetview'
 include ':day27_notebook'
