@@ -19,18 +19,13 @@ public class MainActivity extends AppCompatActivity {
         String geoURI = "geo:55.001379,73.288621?z=20";
         Uri geo = Uri.parse(geoURI);
         Intent geoIntent = new Intent(Intent.ACTION_VIEW, geo);
-        if (geoIntent.resolveActivity(getPackageManager()) != null) {
-            startActivity(geoIntent);
-        }
+        startActivity(geoIntent);
     }
 
     public void openStreetView(View view) {
         String geoUriString = "google.streetview:cbll=59.939448,30.328264&cbp=1,99.56,,1,2.0&mz=19";
         Uri geoUri = Uri.parse(geoUriString);
         Intent mapIntent = new Intent(Intent.ACTION_VIEW, geoUri);
-
-        if (mapIntent.resolveActivity(getPackageManager()) != null) {
-            startActivity(mapIntent);
-        }
+        startActivity(mapIntent);
     }
 }
