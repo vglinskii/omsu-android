@@ -1,3 +1,4 @@
+include ':day34_sql'
 include ':day32_recycler-view'
 include ':day31_fragments'
 include ':day30_broadcast'
