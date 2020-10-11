@@ -1,10 +1,12 @@
-package com.example.day32_recycler_view;
+package com.example.day33_recycler_view;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+
+import com.example.day32_recycler_view.R;
 
 import java.util.Arrays;
 import java.util.List;

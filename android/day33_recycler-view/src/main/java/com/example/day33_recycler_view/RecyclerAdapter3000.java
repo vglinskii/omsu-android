@@ -1,4 +1,4 @@
-package com.example.day32_recycler_view;
+package com.example.day33_recycler_view;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
@@ -6,6 +6,8 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.day32_recycler_view.R;
 
 import java.util.List;
 
